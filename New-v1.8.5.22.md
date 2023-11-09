@@ -1,1 +1,24 @@
-
+{
+"Title": "آپدیت جدید منتشر شد",
+"Description": "این نسخه تا ۲۴ ساعت دیگر غیر فعال میشود ، دریافت نسخه جدید از گوگل پلی",
+"Link": "https://play.google.com/store/apps/details?id=com.vpn.v2ray.v2rayx",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "true",
+"Show": "on"
+}
