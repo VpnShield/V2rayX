@@ -1,6 +1,6 @@
 {
 "Title": "آپدیت جدید منتشر شد",
-"Description": "این نسخه تا ۲۴ ساعت دیگر غیر فعال میشود ، دریافت نسخه جدید از گوگل پلی",
+"Description": "این نسخه غیر فعال شده دریافت نسخه جدید از گوگل پلی",
 "Link": "https://play.google.com/store/apps/details?id=com.vpn.v2ray.v2rayx",
 "ColorWave": "#FFFF00",
 "Color": "#FFFF00",
