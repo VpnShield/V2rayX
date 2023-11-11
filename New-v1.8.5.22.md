@@ -19,6 +19,6 @@
 "ShowTime": "999",
 "Button": "  دریافت نسخه جدید  ",
 "ButtonCancell": " بعدا ",
-"Closure": "true",
+"Closure": "false",
 "Show": "on"
 }
